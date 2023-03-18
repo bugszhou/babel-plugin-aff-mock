@@ -2,7 +2,7 @@
   "name": "babel-plugin-aff-mock",
   "version": "1.1.0",
   "description": "AFF Mock",
-  "main": "lib/index.js",
+  "main": "lib/index-module.js",
   "directories": {
     "lib": "lib"
   },
