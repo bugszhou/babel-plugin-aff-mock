@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-aff-mock",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "AFF Mock",
   "main": "lib/index-module.js",
   "directories": {
